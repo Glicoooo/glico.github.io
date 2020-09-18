@@ -1,1 +1,1 @@
-# glico.github.io
+https://glico.github.io
